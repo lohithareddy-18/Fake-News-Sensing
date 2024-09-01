@@ -1,3 +1,4 @@
+.
 # Fake-News-Sensing
 
 ## Project Overview
@@ -9,12 +10,13 @@ The goal of this project is to create a machine learning model capable of identi
 - Gradient Boosting Classifier
 - Random Forest Classifier
 
+![Fake News Detection](https://engineering.ucdavis.edu/sites/g/files/dgvnsk2151/files/styles/sf_landscape_16x9/public/media/images/413f7eda-5991-660f-a0e9-36d5a7ee2754.png?h=e1043f6d&itok=0jrdgkk5)
+
 ## Problem Statement
 
 In the digital age, the rapid spread of information on various online platforms has made it increasingly important to identify fake news. This project utilizes machine learning algorithms to automatically assess the credibility of news articles, helping to combat the spread of misinformation.
 
 ## Dataset
-I couldn't upload dataset zip file to get dataset Mail me: lohithareddy182004@gmail.com
 
 We use a labeled dataset comprising news articles categorized as either true or false. The dataset is split into two classes:
 
